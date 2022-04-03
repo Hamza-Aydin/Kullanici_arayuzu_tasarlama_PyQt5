@@ -1,0 +1,1 @@
+# PyQt5_kullan-c-_giri-i_aray-z-
